@@ -13,7 +13,7 @@
     onMount(() => {
         console.log('attaching second script')
         const script2 = document.createElement('script');
-        script2.src = '$lib/app.js'
+        script2.src = 'app.js'
         document.body.appendChild(script2);
     })
 
