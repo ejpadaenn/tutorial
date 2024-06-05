@@ -25,8 +25,6 @@
     <Button/>
 
     <div id="particles-js"></div>
-
-    <script src="$lib/app.js"></script>
 </html>
 
 <style>
